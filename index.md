@@ -57,7 +57,7 @@
                                     <label for="input2" class="col-4"><img src="assets/img/3.PNG" class="float-left imgicon" alt="...">密碼</label>
                                     <input type="password" class="form-control input1 col-8" id="input2">
                                 </div>
-                                <center><button type="button" class="btn btnback back"><img src="assets/img/6.png" class="float-left imgicon" alt="...">登入</button></center>
+                                <center><button type="button" class="btn btnback back"><img src="assets/img/6.PNG" class="float-left imgicon" alt="...">登入</button></center>
                             </form>
                         </div>
                         
