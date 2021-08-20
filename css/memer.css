@@ -1,0 +1,30 @@
+.input1{
+width:auto;
+height: 40px;
+background-color:#CEDEEB;
+}
+.bgform{
+width: 465px;
+margin: 1px;
+padding:10px 20px;
+}
+.word{
+color:#5B6A7B;
+font-family:微軟正黑體;
+font-weight:bold;
+font-size: 24px;
+display: inline-block
+}
+.naruto{
+margin:0 auto;
+}
+.butt1{
+background-color:#5B6A7B;
+margin-right:5%;
+width: 100px;
+float:right;
+color:#ffff;
+font-family:微軟正黑體;
+font-weight:bold;
+font-size: 24px;
+}

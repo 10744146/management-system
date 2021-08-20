@@ -1,0 +1,49 @@
+.bord{
+width:100%;
+height:350px;
+background-color:#FFFF ;
+overflow:scroll;
+}
+.butt3{
+color:#ffff;
+background-color:#5B6A7B;
+font-family:微軟正黑體;
+font-weight:bold;
+font-size: 24px;
+float:right;
+}
+/* Style the tab */
+/* Style the tab */
+.tab {
+overflow: hidden;
+border: 1px solid #ccc;
+color:#745E4D;
+background-color: #D8D1C4;
+}
+/* Style the buttons inside the tab */
+.tab button {
+background-color: inherit;
+float: left;
+border: none;
+outline: none;
+cursor: pointer;
+padding: 14px 16px;
+transition: 0.3s;
+font-size: 17px;
+}
+/* Change background color of buttons on hover */
+.tab button:hover {
+background-color: #ddd;
+}
+/* Create an active/current tablink class */
+.tab button.active {
+color:#ffff;
+background-color: #745E4D;
+}
+/* Style the tab content */
+.tabcontent {
+display: none;
+padding: 6px 12px;
+border: 1px solid #ccc;
+border-top: none;
+}

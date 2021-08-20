@@ -1,0 +1,39 @@
+.input1{
+width:auto;
+height: 40px;
+background-color:#ECF5FF;
+}
+.back{
+background-color:#CCDDFF;
+color:#272727;
+font-family:微軟正黑體;
+font-weight:bold;
+font-size: 18px;
+}
+.btnback{
+background-color:#ECF5FF;
+width: 100px;
+margin: 10px;
+}
+.bgform{
+background:	#FFFFFF;
+width: 457px;
+margin: 1px;
+padding:10px 20px;
+}
+.imgicon{
+width: 24px;
+}
+.imgsign{
+  position: relative;
+  width: 70px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.back1{
+background-color:#CCDDFF;
+color:#272727;
+font-family:微軟正黑體;
+font-weight:bold;
+font-size: 18px;
+}

@@ -1,0 +1,141 @@
+.head{
+width:150px;
+margin-top:25px;
+margin-left:75px;
+}
+.addbtn{
+float: right;
+margin-top:10px;
+}
+.content{
+text-align: center;
+}
+a.index{
+color:#5e5e5f;
+text-decoration: none;
+}
+a.index:hover{
+color:#008c9e;
+text-decoration: none;	
+}
+.word{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:	#007979;
+}
+.word1{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:#EA0000;
+}
+.word2{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:#D9006C;
+}
+.sidenav {
+margin-left:30px;
+margin-top:100px;
+height:auto;
+width:12%;
+position: absolute;
+background-color:#dedcee;
+border-radius: 10px;
+border-width: 2px;
+border-color:#fffcf0; 
+padding-top:50px;
+padding-bottom:50px;
+}
+.sidenav a {
+text-align: center;
+text-decoration: none;
+font:24px 微軟正黑體;
+font-weight:bold;
+color:#6d819c;
+display: block;
+}
+.w2{
+width: 1250px;
+margin-left:15%;
+padding-top:15px;
+font:24px 微軟正黑體;
+font-weight:bold;
+color:	#5F9EA0;
+}
+.w4{
+width: 1250px;
+margin-left:15%;
+padding-top:10px;
+font:24px 微軟正黑體;
+font-weight:bold;
+color:	#5F9EA0;
+}
+.center{
+text-align: center;
+}
+
+
+input.tinput{
+font-size: 14px;
+margin-left: 20px;
+width:200px;
+height: 50px;
+border-radius: 8px;
+border-color: gray;
+border-style: bold;
+border-width:3px;
+}
+.table1{
+background-color: white;
+border-style:solid;
+border-radius:20px;
+border-width:5px;
+border-color: #6d819c;
+}
+td{
+text-align:left;
+font:20px 微軟正黑體;
+font-weight: bolder;
+}
+.CatImg{
+width:120px;
+height:120px;
+}
+.EnD{
+width:50px;
+height:50px;
+}
+button{
+margin-top:30px;
+}
+.login{
+width:100px;
+height: 50px;
+margin-bottom: 30px;
+color: #F37B33;
+background-color: white;
+font-weight: bold;
+border-radius: 20px;
+border-color: #F37B33;
+border-style: bold;
+border-width:3px;
+}
+.logout{
+margin-right: 20px;
+color: white;
+font-weight: bold;
+border-radius: 10px;
+border-style: bold;
+border-width:3px;
+}
+.more{
+color:#55967e; 
+text-decoration: none;
+font-weight: bold;
+}
+.more:hover{
+color:white;
+}

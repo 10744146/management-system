@@ -1,0 +1,138 @@
+.head{
+width:150px;
+margin-top:25px;
+margin-left:75px;
+}
+
+.content{
+text-align: center;
+}
+a.index{
+color:#5e5e5f;
+text-decoration: none;
+}
+a.index:hover{
+color:#008c9e;
+text-decoration: none;	
+}
+.word{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:	#007979;
+}
+.word1{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:#EA0000;
+}
+.word2{
+padding:0 35px 0 35px;
+font:20px 微軟正黑體;
+font-weight:bold;
+color:#D9006C;
+}
+.sidenav {
+height:auto;
+width:14%;
+position: fixed;
+z-index: 1;
+top:20%;
+left:0;
+background-color:#CCD6DD;
+overflow-x: hidden;
+}
+.sidenav a {
+text-align: center;
+text-decoration: none;
+font-weight:bold;
+color:#5B6A7B;
+padding-top: 10%;
+display: block;
+}
+
+.sidenav-link:hover {
+color: #0085A1;
+}
+
+/*資料表-按鈕表格文字*/
+.w2{
+font:22px 微軟正黑體;
+font-weight:bold;
+color:  #5F9EA0;
+}
+
+
+/*領養人資料表-新增按鈕*/
+.addbtn{
+background-color:#D64747;
+color: white;
+font-size: 26px;
+font-weight: bold;
+width:auto;
+height: auto;
+border-color:#D64747;
+border-radius:5px;
+}
+
+.addbtn:hover {
+background-color:#A63030;
+  }
+
+.imgb{
+  position: relative;
+  width: 200px;
+  float:left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.form1{
+  text-align:left;
+  position: relative;
+  width:600px;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.back{
+  background-color:#FFE6D9;
+}
+
+/*領養人新增內建*/
+input.tinput{
+font-size: 14px;
+width:200px;
+height: 50px;
+border-radius:15px;
+border-color: gray;
+border-width:3px;
+}
+.table1{
+margin-left:18%;
+margin-right:5%;
+background-color: white;
+border-style:solid;
+border-radius:20px;
+border-width:5px;
+border-color: #6d819c;
+}
+td{
+text-align: center;
+vertical-align:middle;
+font:24px 微軟正黑體;
+font-weight: bolder;
+}
+.CatImg{
+margin-top: 15px;
+width:190px;
+height:auto;
+}
+
+/*編輯刪除鍵大小*/
+.EnD{
+width:40px;
+height:40px;
+}
+
+
+
